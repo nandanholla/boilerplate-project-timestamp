@@ -28,9 +28,9 @@ hr {
 
 code {
   font-family: monospace;
-  padding: 2px;
+  padding: 6px;
   color: black;
-  background-color: #fff;
+  background-color: #f4f4f4;
 }
 
 ul {
@@ -43,4 +43,8 @@ li {
 
 a {
 	color: #2574A9;
+}
+
+a:hover {
+	font-size: 1.1rem;
 }
